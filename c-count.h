@@ -17,5 +17,5 @@ unsigned int count(const std::string& str) {
     return counter;
 =======
 
->>>>>>> df784f11131bb5e3e1ab56a5ce1ee1e29af0993f
+>>>>>>> master
 }
